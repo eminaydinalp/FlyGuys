@@ -1,0 +1,17 @@
+{
+    "name": "LeanTouch",
+    "rootNamespace": "",
+    "references": [
+        "CW.Common",
+        "LeanCommon"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8faab268dff5694581c5ee209d7ff5e, type: 3}
+  m_Name: Color One Option
+  m_EditorClassIdentifier: 
+  Colors:
+  - ColorTurkuaz: {r: 0.42986828, g: 0.7924528, b: 0.78414935, a: 1}
+    ColorYesil: {r: 0.35506406, g: 0.745283, b: 0.40986466, a: 1}
+    ColorSari: {r: 0.89781547, g: 0.9056604, b: 0.4229263, a: 1}
+    ColorTuruncu: {r: 0.9056604, g: 0.73348653, b: 0.15806337, a: 1}
+    ColorKirmizi: {r: 0.9245283, g: 0.34451762, b: 0.34451762, a: 1}
+    ColorPembe: {r: 0.9433962, g: 0.27144888, b: 0.6223027, a: 1}
+    ColorMor: {r: 0.8668968, g: 0.18560876, b: 0.9150943, a: 1}
+    ColorMavi: {r: 0.30655926, g: 0.3630228, b: 0.7830189, a: 1}
